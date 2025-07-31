@@ -18,6 +18,8 @@ This is a simple ToDo application that helps you manage daily tasks using HTML, 
 - HTML
 - CSS
 - JavaScript
+- Django
+- Python
 
 ---
 
